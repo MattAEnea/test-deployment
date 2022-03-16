@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>test_deployment</RootNamespace>
+    <UserSecretsId>b88f7084-e03e-4db6-a5ad-288ec69d27e1</UserSecretsId>
+  </PropertyGroup>
+
+</Project>
